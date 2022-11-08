@@ -12,7 +12,7 @@
             & Documents cd Zoom - moves from Documents folder to Zoom
             (cd alone takes you back to the home directory)
         - cd .. = move up one directory
-        - cd - = reurn to folder when you have accidently gone off it
+        - cd - = return to folder when you have accidently gone off it
 
 
 
