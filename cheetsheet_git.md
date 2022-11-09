@@ -64,7 +64,41 @@
 
 
 #### ***General*** ####
+
 > Type **`history`** to view past commands (press up/down)
 
 > **`ctrl + l`** / **`clear`** = to clear page visible to you (not entirety)
+
+
+
+## **Commands used in Git**
+
+Remember to:
+- To bring terminal into VSCode = press terminal at the top then new terminal
+
+Follow the below:
+1. **`mkdir new_project`** = create new directory
+2. **`cd new_project`** = moves into new directory
+3. **`git init`** = initialises a new Git repository
+4. **`touch new_file.txt`** = creates a new text file
+5. **`open new_file.txt`** = allows one to edit text file in an editor
+6. **`git add new_file.txt`** / **`git add .`** = tells Git to track new file 
+    - **`.`** will select all modified files
+7. **`git commit -m"your commit message"`** = commits staged changes
+8. Create a repository in Github
+9. **`git remote add origin <GIT URL of new remote repository>`** = connects local and remote repositories
+    - OR copy and paste the middle line of code into VScode terminal which was created in your repo in Github
+10. **`git push origin main`** = pushes the local changes to the remote
+    - just typing **`git push`** is enough
+
+General:
+
+> **`git log`** = provides a git number (only need to use first 7 figures) and who entered the code etc
+
+        - enter follwoing commit command then press 'esc' or q to return and then git push
+
+Commiting changes and pushing changes to remote:
+1. **`git add ...`** = stage changes wanted to commit (**`.`** specifies all files, **`git status`** will show all modified files)
+2. **`git commit -m"..."`** = commits staged changes to lcoal repository
+3. **`git push origin main`** = pushes changes to the remote
 
