@@ -70,9 +70,11 @@
 > **`ctrl + l`** / **`clear`** = to clear page visible to you (not entirety)
 
 
+## **Git Commands**
+
 <img src=https://miro.medium.com/max/4800/0*ZLfPdBuEy3SgJscw.webp width=200px>
 
-## **Git Commands**
+
 
 Remember to: 🫡
 - Put terminal into VSCode = press terminal at the top then new terminal
