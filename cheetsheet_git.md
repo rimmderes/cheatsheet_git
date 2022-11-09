@@ -95,10 +95,10 @@ General:
 
 > **`git log`** = provides a git number (only need to use first 7 figures) and who entered the code etc
 
-        - enter follwoing commit command then press 'esc' or q to return and then git push
+        - enter the above following commit command then press 'esc' or q to return and then git push
 
 Commiting changes and pushing changes to remote:
 1. **`git add ...`** = stage changes wanted to commit (**`.`** specifies all files, **`git status`** will show all modified files)
 2. **`git commit -m"..."`** = commits staged changes to lcoal repository
-3. **`git push origin main`** = pushes changes to the remote
+3. **`git push origin main`** = pushes changes to the remote (Github)
 
