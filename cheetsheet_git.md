@@ -1,8 +1,8 @@
-# **Terminal and Git CheatSheet**
+# **Terminal and [GitHub](www.githib.com) Cheat Sheet** 💡
 
 ## **Commands used in Terminal**
 
-### ***Navigation*** ###
+### ***Navigation*** ⭐
 
  -  **`pwd`** = where one is (your directory - i.e.: /users/rimmderes)
 
@@ -24,9 +24,9 @@
 
  - **`cd -`** = return to folder when you have accidently gone off
 
-     
 
-### ***Creation***
+
+### ***Creation*** 🚀
 
  - **`mkdir`** = to create a directory (i.e.: `myDirectory`) 
     - The following folder must have no spaces i.e: my_directory
@@ -50,7 +50,7 @@
  - **`rm -rf my_directory`** = delete **`my_directory`** including all of its contents
     - use command carefully due to the forced deletion of a folder/file (**`-rf`**)
 
-### ***Manipulating Files*** ###
+### ***Manipulating Files*** 🤫
 
  - **`mv`** = to move files
     - example = my_directory mv my_file.txt : moves **`my_directory`** to **`my_file.txt`** 
@@ -63,17 +63,18 @@
  - **`cp r directory path/to/new/location`** = copy **`directory`** to a new location
 
 
-#### ***General*** ####
+#### ***General*** 🤔
 
 > Type **`history`** to view past commands (press up/down)
 
 > **`ctrl + l`** / **`clear`** = to clear page visible to you (not entirety)
 
 
+<img src=https://miro.medium.com/max/4800/0*ZLfPdBuEy3SgJscw.webp width=200px>
 
-## **Commands used in Git**
+## **Git Commands**
 
-Remember to:
+Remember to: 🫡
 - Put terminal into VSCode = press terminal at the top then new terminal
 
 Follow the below:
@@ -91,7 +92,7 @@ Follow the below:
 10. **`git push origin main`** = pushes the local changes to the remote
     - just typing **`git push`** is enough
 
-General:
+General: 🤔
 
 > **`git log`** = provides a git number (only need to use first 7 figures) and who entered the code etc
 
@@ -103,7 +104,7 @@ Commiting changes and pushing changes to remote:
 3. **`git push origin main`** = pushes changes to the remote (Github)
 
 
-### ***Cloning***
+### ***Cloning***  👽
 
  1. copy SSH code from Octocat/Spoon-Knife on Github and paste into terminal (not VSCode one)
  2. write **`git clone`** in terminal and then paste the SSH code
