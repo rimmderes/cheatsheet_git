@@ -74,7 +74,7 @@
 ## **Commands used in Git**
 
 Remember to:
-- To bring terminal into VSCode = press terminal at the top then new terminal
+- Put terminal into VSCode = press terminal at the top then new terminal
 
 Follow the below:
 1. **`mkdir new_project`** = create new directory
@@ -87,7 +87,7 @@ Follow the below:
 7. **`git commit -m"your commit message"`** = commits staged changes
 8. Create a repository in Github
 9. **`git remote add origin <GIT URL of new remote repository>`** = connects local and remote repositories
-    - OR copy and paste the middle line of code into VScode terminal which was created in your repo in Github
+    - OR copy and paste the middle line of code into VScode terminal which was created in your repo in Github (SSH)
 10. **`git push origin main`** = pushes the local changes to the remote
     - just typing **`git push`** is enough
 
@@ -102,3 +102,10 @@ Commiting changes and pushing changes to remote:
 2. **`git commit -m"..."`** = commits staged changes to lcoal repository
 3. **`git push origin main`** = pushes changes to the remote (Github)
 
+
+### ***Cloning***
+
+ 1. copy SSH code from Octocat/Spoon-Knife on Github and paste into terminal (not VSCode one)
+ 2. write **`git clone`** in terminal and then paste the SSH code
+
+ > This creates a copy of the file on your laptop
